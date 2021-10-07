@@ -60,6 +60,18 @@
   border: 0.25vmin solid white;
   border-radius: 12px;
 }
+footer{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  bottom: 0;
+  color: #000;
+}
+
+footer a{
+  text-decoration: none;
+  color: blue;
+}
 
 @media only screen and (max-width: 1213px) {
     .body{
